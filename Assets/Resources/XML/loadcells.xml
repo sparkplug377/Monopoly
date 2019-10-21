@@ -1,0 +1,323 @@
+﻿<?xml version="1.0"?>
+<Board>
+    <Cell>
+        <Name>As you pass Go</Name>
+        <Ownership>NOT_APPLICABLE</Ownership>
+        <Status>NOT_APPLICABLE</Status>
+        <Rent>0</Rent>
+        <Price>0</Price>
+        <Type>GO</Type>
+    </Cell> 
+    <Cell>
+        <Name>Mediterranean Ave</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>2</Rent>
+        <Price>60</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell>
+    <Cell>
+        <Name>Community Chest</Name>
+        <Ownership>NOT_APPLICABLE</Ownership>
+        <Status>NOT_APPLICABLE</Status>
+        <Rent>0</Rent>
+        <Price>0</Price>
+        <Type>OTHER</Type>
+    </Cell>
+    <Cell>
+        <Name>Baltic Ave</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>4</Rent>
+        <Price>60</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell>
+    <Cell>
+        <Name>Income Tax</Name>
+        <Ownership>NOT_APPLICABLE</Ownership>
+        <Status>NOT_APPLICABLE</Status>
+        <Rent>200</Rent>
+        <Price>0</Price>
+        <Type>OTHER</Type>
+    </Cell>
+    <Cell>
+        <Name>Reading Railroad</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>50</Rent>
+        <Price>200</Price>
+        <Type>RAILROAD</Type>
+    </Cell>
+    <Cell>
+        <Name>Oriental Ave</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>6</Rent>
+        <Price>100</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell>
+    <Cell>
+        <Name>Chance</Name>
+        <Ownership>NOT_APPLICABLE</Ownership>
+        <Status>NOT_APPLICABLE</Status>
+        <Rent>0</Rent>
+        <Price>0</Price>
+        <Type>OTHER</Type>
+    </Cell>
+    <Cell>
+        <Name>Vermont Ave</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>6</Rent>
+        <Price>100</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell>
+    <Cell>
+        <Name>Connecticut Ave</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>8</Rent>
+        <Price>120</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell>
+    <Cell>
+        <Name>Just Visitng</Name>
+        <Ownership>NOT_APPLICABLE</Ownership>
+        <Status>NOT_APPLICABLE</Status>
+        <Rent>0</Rent>
+        <Price>0</Price>
+        <Type>OTHER</Type>
+    </Cell>
+    <Cell>
+        <Name>St.Charles Pl</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>10</Rent>
+        <Price>140</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell>
+    <Cell>
+        <Name>Electric Company</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>0</Rent>
+        <Price>150</Price>
+        <Type>UTILITY</Type>
+    </Cell>
+    <Cell>
+        <Name>States Ave</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>10</Rent>
+        <Price>140</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell>
+    <Cell>
+        <Name>Virginia Ave</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>12</Rent>
+        <Price>160</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell>
+    <Cell>
+        <Name>Pennslyvania Railroad</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>50</Rent>
+        <Price>200</Price>
+        <Type>RAILROAD</Type>
+    </Cell>
+    <Cell>
+        <Name>St.James Pl</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>14</Rent>
+        <Price>180</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell>
+    <Cell>
+        <Name>Community Chest</Name>
+        <Ownership>NOT_APPLICABLE</Ownership>
+        <Status>NOT_APPLICABLE</Status>
+        <Rent>0</Rent>
+        <Price>0</Price>
+        <Type>OTHER</Type>
+    </Cell>
+    <Cell>
+        <Name>Tenesse Ave</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>14</Rent>
+        <Price>180</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell>
+    <Cell>
+        <Name>NewYork Ave</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>16</Rent>
+        <Price>200</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell>
+    <Cell>
+        <Name>Free Parking</Name>
+        <Ownership>NOT_APPLICABLE</Ownership>
+        <Status>NOT_APPLICABLE</Status>
+        <Rent>0</Rent>
+        <Price>0</Price>
+        <Type>OTHER</Type>
+    </Cell>
+    <Cell>
+        <Name>Kentucky Ave</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>18</Rent>
+        <Price>220</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell>
+    <Cell>
+        <Name>Chance</Name>
+        <Ownership>NOT_APPLICABLE</Ownership>
+        <Status>NOT_APPLICABLE</Status>
+        <Rent>0</Rent>
+        <Price>0</Price>
+        <Type>OTHER</Type>
+    </Cell>
+    <Cell>
+        <Name>Indiana Ave</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>18</Rent>
+        <Price>220</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell>
+    <Cell>
+        <Name>Illinois Ave</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>20</Rent>
+        <Price>240</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell>
+    <Cell>
+        <Name>BO Railroad</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>50</Rent>
+        <Price>200</Price>
+        <Type>RAILROAD</Type>
+    </Cell>
+    <Cell>
+        <Name>Atlantic Ave</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>22</Rent>
+        <Price>260</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell>
+    <Cell>
+        <Name>Ventnor Ave</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>22</Rent>
+        <Price>260</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell> 
+    <Cell>
+        <Name>Water Works</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>0</Rent>
+        <Price>150</Price>
+        <Type>UTILITY</Type>
+    </Cell> 
+    <Cell>
+        <Name>Marvin Gr</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>24</Rent>
+        <Price>280</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell> 
+    <Cell>
+        <Name>Go to Jail</Name>
+        <Ownership>NOT_APPLICABLE</Ownership>
+        <Status>NOT_APPLICABLE</Status>
+        <Rent>0</Rent>
+        <Price>0</Price>
+        <Type>OTHER</Type>
+    </Cell> 
+    <Cell>
+        <Name>Pacific Ave</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>26</Rent>
+        <Price>300</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell> 
+    <Cell>
+        <Name>North Carolina Ave</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>26</Rent>
+        <Price>300</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell> 
+    <Cell>
+        <Name>Community Chest</Name>
+        <Ownership>NOT_APPLICABLE</Ownership>
+        <Status>NOT_APPLICABLE</Status>
+        <Rent>0</Rent>
+        <Price>0</Price>
+        <Type>OTHER</Type>
+    </Cell> 
+    <Cell>
+        <Name>Pennslyvania Ave</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>28</Rent>
+        <Price>320</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell> 
+    <Cell>
+        <Name>Short Line</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>50</Rent>
+        <Price>200</Price>
+        <Type>RAILROAD</Type>
+    </Cell> 
+    <Cell>
+        <Name>Chance</Name>
+        <Ownership>NOT_APPLICABLE</Ownership>
+        <Status>NOT_APPLICABLE</Status>
+        <Rent>0</Rent>
+        <Price>0</Price>
+        <Type>OTHER</Type>
+    </Cell> 
+    <Cell>
+        <Name>Park Pl</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>35</Rent>
+        <Price>350</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell> 
+    <Cell>
+        <Name>Luxury Tax</Name>
+        <Ownership>NOT_APPLICABLE</Ownership>
+        <Status>NOT_APPLICABLE</Status>
+        <Rent>75</Rent>
+        <Price>0</Price>
+        <Type>OTHER</Type>
+    </Cell> 
+    <Cell>
+        <Name>BroadWalk</Name>
+        <Ownership>NONE</Ownership>
+        <Status>UNSOLD</Status>
+        <Rent>50</Rent>
+        <Price>400</Price>
+        <Type>COLOR_STRIPE</Type>
+    </Cell> 
+</Board>
